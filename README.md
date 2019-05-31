@@ -1,4 +1,7 @@
-# vagones
-Ejercicio Programación Vagones
+# Programación con BBDD
+Ejercicio de programación JAVA con BBDD MySQL. Realizado conjuntamente por:
 
-Pablo, Pili, Alberto y Eli
+- Pablo Rodríguez
+- Pilar Rus
+- Alberto Ruíz
+- Elisa García
